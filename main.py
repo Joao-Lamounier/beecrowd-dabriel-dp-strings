@@ -34,4 +34,4 @@ def smallest_string_subsequences(x, y):
 if __name__ == '__main__':
     args = init_args()
     smallest = smallest_string_subsequences(input(), input())
-    print(f'\n{smallest}')
+    print(f'{smallest}')
